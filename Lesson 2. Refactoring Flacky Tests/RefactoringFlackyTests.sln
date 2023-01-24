@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringFlackyTests", "RefactoringFlackyTests\RefactoringFlackyTests.csproj", "{0717BE09-508B-45ED-A964-EC57447D704B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0717BE09-508B-45ED-A964-EC57447D704B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0717BE09-508B-45ED-A964-EC57447D704B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0717BE09-508B-45ED-A964-EC57447D704B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0717BE09-508B-45ED-A964-EC57447D704B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49F129AC-9B05-4529-AD85-D99D91A235AF}
+	EndGlobalSection
+EndGlobal
