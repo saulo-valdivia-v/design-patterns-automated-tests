@@ -1,5 +1,8 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Support.UI;
+using SeleniumExtras.WaitHelpers;
+using System.Collections.ObjectModel;
 
 namespace RefactoringFlackyTests
 {
@@ -173,6 +176,5 @@ namespace RefactoringFlackyTests
             string expectedMessage = $"Order #{_purchaseOrderNumber}";
             Assert.Equal(expectedMessage, orderName.Text);
         }
-
     }
 }
