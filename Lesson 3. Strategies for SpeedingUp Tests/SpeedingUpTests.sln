@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedingUpTests", "SpeedingUpTests\SpeedingUpTests.csproj", "{CF42E72A-06D1-4E6C-8212-85E192B56BED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpeedingUpTests", "SpeedingUpTests\SpeedingUpTests.csproj", "{CF42E72A-06D1-4E6C-8212-85E192B56BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverTests", "ObserverTests\ObserverTests.csproj", "{F74756AA-73C5-4B1C-9BBB-AED3132C7AE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CF42E72A-06D1-4E6C-8212-85E192B56BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF42E72A-06D1-4E6C-8212-85E192B56BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF42E72A-06D1-4E6C-8212-85E192B56BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74756AA-73C5-4B1C-9BBB-AED3132C7AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74756AA-73C5-4B1C-9BBB-AED3132C7AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74756AA-73C5-4B1C-9BBB-AED3132C7AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74756AA-73C5-4B1C-9BBB-AED3132C7AE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
